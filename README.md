@@ -1,6 +1,6 @@
 # 刀盾狗（Codex Pet）
 
-一只低趴、圆滚滚、左手持刀右手举盾的 Codex v2 动态宠物。挥手时会弹出气泡：**“我的刀盾!”**
+一只低趴、圆滚滚、左手持刀右手举盾的 Codex v2 动态宠物。首次出现及挥手时会弹出气泡：**“我的刀盾!”**
 
 ![动作预览](preview/contact-sheet.png)
 
@@ -22,6 +22,7 @@
 - `preview/contact-sheet.png`：动作总览。
 - `preview/look-directions.png`：16 向观察动作预览。
 - `preview/speech-bubble.gif`：带“我的刀盾!”气泡的挥手动画。
+- `preview/first-appearance.gif`：首次出现时的“我的刀盾!”气泡预览。
 
 ## 质量检查
 
@@ -38,4 +39,4 @@
 
 ## English
 
-An unofficial Codex v2 animated pet inspired by the sword-and-shield dog meme. The original reference image is not included. During the waving animation, the speech bubble says “我的刀盾!” (“My sword and shield!”).
+An unofficial Codex v2 animated pet inspired by the sword-and-shield dog meme. The original reference image is not included. On first appearance and during the waving animation, the speech bubble says “我的刀盾!” (“My sword and shield!”).
