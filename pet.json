@@ -1,7 +1,7 @@
 ﻿{
     "id":  "daodun",
     "displayName":  "刀盾狗",
-    "description":  "低趴圆球刀盾狗，首次出现及挥手时会弹出“我的刀盾!”语言泡泡。",
+    "description":  "低趴圆球刀盾狗，偶尔挥手时会弹出“我的刀盾!”语言泡泡。",
     "spriteVersionNumber":  2,
     "spritesheetPath":  "spritesheet.webp"
 }
