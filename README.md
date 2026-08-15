@@ -7,7 +7,7 @@
 ## 安装
 
 1. 下载本仓库。
-2. 将 `pet.json` 和 `spritesheet.webp` 复制到：
+2. 将 `pet.json` 和 `spritesheet-r2.webp` 复制到：
 
    ```text
    %USERPROFILE%\.codex\pets\daodun\
@@ -17,7 +17,7 @@
 
 ## 内容
 
-- `spritesheet.webp`：Codex v2 精灵图，1536 × 2288，包含 9 组标准动画。
+- `spritesheet-r2.webp`：Codex v2 精灵图，1536 × 2288，包含 9 组标准动画；新资源名可避免 Codex 继续使用旧图集缓存。
 - `pet.json`：宠物清单。
 - `preview/contact-sheet.png`：动作总览。
 - `preview/look-directions.png`：16 向观察动作预览。
